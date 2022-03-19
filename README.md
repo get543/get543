@@ -41,11 +41,11 @@
 <summary>🔨 Latest Project</summary>
 
 <!-- START_SECTION:activity -->
-- 👷‍♂️ Working PR in [Android Bot](https://github.com/get543/Android.Bot)
-- 🌐 Open PR in [Youtube Downloader](https://github.com/get543/youtube-downloader)
-- ❌ Closed PR in [The Blog](https://github.com/get543/theblog)
+1. 👷‍♂️ Working PR in [Android Bot](https://github.com/get543/Android.Bot)
+2. 🌐 Open PR in [Youtube Downloader](https://github.com/get543/youtube-downloader)
+3. ❌ Closed PR in [The Blog](https://github.com/get543/theblog)
 
-➡️ [more projects...](https://github.com/get543?tab=repositories)
+    ➡️ [more projects...](https://github.com/get543?tab=repositories)
 <!-- END_SECTION:activity -->
 </details>
 
