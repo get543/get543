@@ -1,9 +1,9 @@
 
-# Hi there I'm Udin & I'm a Student
-- 🌱 I'm currently working on a Discord Bot using [discordjs]
-- 📝 I'm currently learning JavaScript
-- 🥅 2022 Goals: Create a project using [electron]
-- 😇 Fun fact: I like to take a nap
+# Hi there I'm Udin & I'm Learning
+- 🌱 I'm currently working on a project that is related to web technology.
+- 📝 I'm currently learning [JavaScript], [C++], [Bash Script].
+- 🥅 2022 Goals: Create a project using [electron].
+- 😇 Fun fact: I like to take a nap.
 
 ### Connect with me: 
 
@@ -61,8 +61,11 @@
 <!-- END_SECTION:activity -->
 </details>
 
-[discordjs]: https://discord.js.org
+
 [electron]: https://www.electronjs.org/
+[JavaScript]: https://www.javascript.com/
+[C++]: https://www.w3schools.com/cpp/cpp_getstarted.asp
+[Bash Script]: https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/
 
 [website]: https://get543.github.io/portfolio-tailwindcss
 [discord]: https://discord.com/
