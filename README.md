@@ -29,7 +29,24 @@
 [<img align="left" alt="JavaScript" width="26px" height="26px" src="./img/tools/javascript.svg" style="padding-right:10px;"/>][javascript]
 [<img align="left" alt="NodeJS" width="26px" height="26px" src="./img/tools/nodejs.svg" style="padding-right:10px;"/>][nodejs]
 [<img align="left" alt="MongoDB" width="26px" height="26px" src="./img/tools/mongodb.svg" style="padding-right:10px;"/>][mongodb]
-[<img align="left" alt="Github" width="26px" height="26px" src="./img/tools/github.svg" style="padding-right:10px;"/>][github]
+
+<picture>
+  <a href="https://github.com/">
+    <source media="(prefers-color-scheme: light)" srcset="./img/tools/github-dark.svg">
+  </a>
+
+  <a href="https://github.com/">
+    <source media="(prefers-color-scheme: dark)" srcset="./img/tools/github-light.svg">
+  </a>
+
+  <a href="https://github.com/">
+    <img align="left" alt="Github" width="26px" height="26px" src="./img/tools/github-light.svg" style="padding-right:10px;"/>
+  </a>
+</picture>
+
+<!-- [<img align="left" alt="Github" width="26px" height="26px" src="./img/tools/github-light.svg" style="padding-right:10px;"/>][github] -->
+<!-- [<img align="left" alt="Github" width="26px" height="26px" src="./img/tools/github-dark.svg" style="padding-right:10px;"/>][github] -->
+
 [<img align="left" alt="Linux" width="26px" height="26px" src="./img/tools/linux.svg" style="padding-right:10px;"/>][linux]
 [<img align="left" alt="Windows 10" width="26px" height="26px" src="./img/tools/windows10.svg" style="padding-right:10px;"/>][windows10]
 
