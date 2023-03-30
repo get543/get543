@@ -31,21 +31,10 @@
 [<img align="left" alt="MongoDB" width="26px" height="26px" src="./img/tools/mongodb.svg" style="padding-right:10px;"/>][mongodb]
 
 <picture>
-  <a href="https://github.com/">
-    <source media="(prefers-color-scheme: light)" srcset="./img/tools/github-dark.svg">
-  </a>
-
-  <a href="https://github.com/">
-    <source media="(prefers-color-scheme: dark)" srcset="./img/tools/github-light.svg">
-  </a>
-
-  <a href="https://github.com/">
-    <img align="left" alt="Github" width="26px" height="26px" src="./img/tools/github-light.svg" style="padding-right:10px;"/>
-  </a>
+  <source media="(prefers-color-scheme: light)" srcset="./img/tools/github-dark.png">
+  <source media="(prefers-color-scheme: dark)" srcset="./img/tools/github-light.png">
+  <img align="left" alt="Github Icon" width="26px" height="26px" src="./img/tools/github-light.png" style="padding-right:10px;"/>
 </picture>
-
-<!-- [<img align="left" alt="Github" width="26px" height="26px" src="./img/tools/github-light.svg" style="padding-right:10px;"/>][github] -->
-<!-- [<img align="left" alt="Github" width="26px" height="26px" src="./img/tools/github-dark.svg" style="padding-right:10px;"/>][github] -->
 
 [<img align="left" alt="Linux" width="26px" height="26px" src="./img/tools/linux.svg" style="padding-right:10px;"/>][linux]
 [<img align="left" alt="Windows 10" width="26px" height="26px" src="./img/tools/windows10.svg" style="padding-right:10px;"/>][windows10]
