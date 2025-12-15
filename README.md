@@ -1,9 +1,9 @@
 
 # Hi there I'm Udin & I'm Learning
-- 🌱 I'm currently working on a project that is related to web technology.
-- 📝 I'm currently learning [JavaScript], [C++], [Bash Script].
-- 🥅 2022 Goals: Create a project using [electron].
-- 😇 Fun fact: I like to take a nap.
+- 🌱 I'm currently working on a project that is multiplatform focusing on mobile technology.
+- 📝 I'm currently learning [JavaScript], [Flutter].
+- 🥅 2037 Goals: Survive.
+- 😇 Fun fact: Spent most of my time bedrotting.
 
 ### Connect with me: 
 
@@ -23,7 +23,7 @@
 ### Language and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" height="26px" src="./img/tools/vscode.svg" style="padding-right:10px;"/>][vscode]
 [<img align="left" alt="Bash" width="26px" height="26px" src="./img/tools/bash.svg" style="padding-right:10px;"/>][bash]
-[<img align="left" alt="C++" width="26px" height="26px" src="./img/tools/cpp.svg" style="padding-right:10px;"/>][cpp]
+[<img align="left" alt="Python" width="26px" height="26px" src="./img/tools/python.svg" style="padding-right:10px;"/>][python]
 [<img align="left" alt="HTML5" width="26px" height="26px" src="./img/tools/html5.svg" style="padding-right:10px;"/>][html5]
 [<img align="left" alt="CSS3" width="26px" height="26px" src="./img/tools/css3.svg" style="padding-right:10px;"/>][css3]
 [<img align="left" alt="JavaScript" width="26px" height="26px" src="./img/tools/javascript.svg" style="padding-right:10px;"/>][javascript]
@@ -47,11 +47,11 @@
 <summary>🔨 Latest Project</summary>
 
 <!-- START_SECTION:activity -->
-1. 👷‍♂️ Working PR in [Guide For Beginner Linux User]
-2. 🌐 Open PR in [Youtube Downloader]
-3. ❌ Closed PR in [The Blog]
+1. 👷‍♂️ Working PR in [World Time]
+2. 📱 Open PR in [GunadarmaWeb]
+3. ❌ Closed PR in [Markdown-Blog]
 
-    ➡️ [more projects...]
+  ➡️ [more projects...]
 <!-- END_SECTION:activity -->
 </details>
 
@@ -61,16 +61,16 @@
 
 <!-- START_SECTION:activity -->
 1. 🐧 [Ultimate Guide For Beginner Linux User] 👉 Linux stuff + usefull scripts
-2. 🎵 [MuSicBot] 👉 discord music bot
-3. 🏪 [conversion] 👉 conversion program using cpp
-
+2. 📜 [Windows Scripting] 👉 Windows Automation Script
+3. 🌐 [Markdown Blog] 👉 blog rendered using markdown text
 <!-- END_SECTION:activity -->
 </details>
 
 
+[Flutter]: https://flutter.dev
 [electron]: https://www.electronjs.org/
 [JavaScript]: https://www.javascript.com/
-[C++]: https://www.w3schools.com/cpp/cpp_getstarted.asp
+[python]: https://python.org
 [Bash Script]: https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/
 
 [website]: https://get543.github.io/portfolio-tailwindcss
@@ -92,11 +92,11 @@
 [linux]: https://en.wikipedia.org/wiki/Linux
 [windows10]: https://www.microsoft.com/en-us/software-download/windows10
 
-[Guide For Beginner Linux User]: https://github.com/get543/linux-beginner-guide
-[Youtube Downloader]: https://github.com/get543/youtube-downloader
-[The Blog]: https://github.com/get543/theblog
+[Gunadarma Web]: https://github.com/get543/GunadarmaWeb
+[Windows Scripting]: https://github.com/get543/Windows-Scripting
+[Markdown Blog]: https://github.com/get543/Markdown-Blog
 [more projects...]: https://github.com/get543?tab=repositories
 
 [Ultimate Guide For Beginner Linux User]: https://github.com/get543/linux-beginner-guide/blob/main/Ultimate%20Guide%20For%20Beginner%20Linux%20User.md
 [MuSicBot]: https://github.com/get543/musicbot
-[conversion]: https://github.com/get543/conversion
+[World Time]: https://github.com/get543/world_time
