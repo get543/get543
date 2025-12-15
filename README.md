@@ -48,8 +48,8 @@
 
 <!-- START_SECTION:activity -->
 1. 👷‍♂️ Working PR in [World Time]
-2. 📱 Open PR in [GunadarmaWeb]
-3. ❌ Closed PR in [Markdown-Blog]
+2. 📱 Open PR in [Gunadarma Web]
+3. ❌ Closed PR in [Markdown Blog]
 
   ➡️ [more projects...]
 <!-- END_SECTION:activity -->
