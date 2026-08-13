@@ -37,7 +37,7 @@
 </picture>
 
 [<img align="left" alt="Linux" width="26px" height="26px" src="./img/tools/linux.svg" style="padding-right:10px;"/>][linux]
-[<img align="left" alt="Windows 10" width="26px" height="26px" src="./img/tools/windows10.svg" style="padding-right:10px;"/>][windows10]
+[<img align="left" alt="Windows 11" width="26px" height="26px" src="./img/tools/windows11.png" style="padding-right:10px;"/>][windows11]
 
 <br />
 <br />
@@ -48,7 +48,7 @@
 
 <!-- START_SECTION:activity -->
 1. 👷‍♂️ Working PR in [World Time]
-2. 📱 Open PR in [Gunadarma Web]
+2. 📱 Open PR in [WDMS App]
 3. ❌ Closed PR in [Markdown Blog]
 
   ➡️ [more projects...]
@@ -63,6 +63,8 @@
 1. 🐧 [Ultimate Guide For Beginner Linux User] 👉 Linux stuff + usefull scripts
 2. 📜 [Windows Scripting] 👉 Windows Automation Script
 3. 🌐 [Markdown Blog] 👉 blog rendered using markdown text
+4. 🌐 [YouTube Downloader] 👉 download youtube videos using yt-dlp & ffmpeg
+5. 📱 [Better PWA] 👉 turn websites into android app with custom links
 <!-- END_SECTION:activity -->
 </details>
 
@@ -90,13 +92,15 @@
 [mongodb]: https://www.mongodb.com/
 [github]: https://github.com/
 [linux]: https://en.wikipedia.org/wiki/Linux
-[windows10]: https://www.microsoft.com/en-us/software-download/windows10
+[windows11]: https://www.microsoft.com/en-us/software-download/windows11
 
-[Gunadarma Web]: https://github.com/get543/GunadarmaWeb
 [Windows Scripting]: https://github.com/get543/Windows-Scripting
 [Markdown Blog]: https://github.com/get543/Markdown-Blog
+[World Time]: https://github.com/get543/world_time
+[WDMS App]: https://github.com/get543/wdms-app
 [more projects...]: https://github.com/get543?tab=repositories
 
 [Ultimate Guide For Beginner Linux User]: https://github.com/get543/linux-beginner-guide/blob/main/Ultimate%20Guide%20For%20Beginner%20Linux%20User.md
 [MuSicBot]: https://github.com/get543/musicbot
-[World Time]: https://github.com/get543/world_time
+[Better PWA]: https://github.com/get543/better_pwa
+[YouTube Downloader]: https://github.com/get543/youtube-downloader
